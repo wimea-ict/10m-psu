@@ -1,0 +1,19 @@
+
+Element["" "" "" "" 460.00mil 280.00mil 0.0000 0.0000 0 100 ""]
+(
+	Pin[90.00mil 60.00mil 60.00mil 30.00mil 60.00mil 28.00mil "" "1" ""]
+	Pin[90.00mil 770.00mil 60.00mil 30.00mil 60.00mil 28.00mil "" "2" ""]
+	Pin[520.00mil 60.00mil 60.00mil 30.00mil 60.00mil 28.00mil "" "4" ""]
+	Pin[520.00mil 770.00mil 60.00mil 30.00mil 60.00mil 28.00mil "" "3" ""]
+	ElementLine [130.00mil 770.00mil 170.00mil 770.00mil 15.00mil]
+	ElementLine [150.00mil 750.00mil 150.00mil 790.00mil 15.00mil]
+	ElementLine [130.00mil 60.00mil 170.00mil 60.00mil 15.00mil]
+	ElementLine [150.00mil 40.00mil 150.00mil 80.00mil 15.00mil]
+	ElementLine [560.00mil 770.00mil 600.00mil 770.00mil 15.00mil]
+	ElementLine [560.00mil 60.00mil 600.00mil 60.00mil 15.00mil]
+	ElementLine [30.00mil 20.00mil 620.00mil 20.00mil 15.00mil]
+	ElementLine [620.00mil 20.00mil 620.00mil 830.00mil 15.00mil]
+	ElementLine [620.00mil 830.00mil 20.00mil 830.00mil 15.00mil]
+	ElementLine [20.00mil 830.00mil 20.00mil 20.00mil 15.00mil]
+
+	)
